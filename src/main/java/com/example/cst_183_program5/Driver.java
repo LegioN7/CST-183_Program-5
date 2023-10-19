@@ -1,3 +1,7 @@
+// CST-183
+// Aaron Pelto
+// Fall 2023
+
 package com.example.cst_183_program5;
 
 import javafx.application.Application;
